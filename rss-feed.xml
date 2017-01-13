@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 
   <channel>
+
+    <atom:link href="https://bottomofthepage.github.io/Bottom-of-the-Page-Podcast-RSS-Feed/rss-feed.xml" rel="self" type="application/rss+xml" />
 
     <title>The Bottom of the Page Podcast</title>
     <description>Here on the Bottom of the Page podcast, we explore the lives, ambitions and aspirations of individuals who livestream or otherwise contribute to platforms such as Twitch or YouTube despite their lack of viewership. We want to find out what makes them tick, and why they do what they do. Are they in it for the money? Community? Do they even know? We're here to find out!</description>
@@ -11,7 +13,7 @@
     <pubDate>Thu, 5 Jan 2017 08:00:00 -0500</pubDate>
     <lastBuildDate>Fri, 13 Jan 2017 00:00:01 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <webMaster>BottomOfThePage@gmail.com</webMaster>
+    <webMaster>BottomOfThePage@gmail.com (Bottom of the Page)</webMaster>
 
     <itunes:author>Doctor McBoop and Prophet Zopu</itunes:author>
     <itunes:subtitle>A show about content creators at the bottom of the page</itunes:subtitle>
@@ -25,7 +27,7 @@
     <itunes:block>No</itunes:block>
     <itunes:explicit>No</itunes:explicit>
 
-    <itunes:image href="https://archive.org/download/bottomofthepage-logo-0/temporary-logo.png"/>
+    <itunes:image href="http://archive.org/download/bottomofthepage-logo-0/temporary-logo.png"/>
 
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
@@ -34,9 +36,9 @@
     <item>
       <title>Bottom of the Page Episode 0</title>
       <link>https://archive.org/details/bottomofthepage-episode-0</link>
-      <guid>https://archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3</guid>
+      <guid>http://archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3</guid>
       <description>Bottom of the Page "streamers" take their first stab at making a podcast.</description>
-      <enclosure url="https://archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3" length="26626176" type="audio/mpeg"/>
+      <enclosure url="http://archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3" length="26626176" type="audio/mpeg"/>
       <category>Podcasts</category>
       <pubDate>Thu, 5 Jan 2017 08:00:00 -0500</pubDate>
 
