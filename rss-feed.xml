@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>Copyright 2017. All rights reserved.</copyright>
     <pubDate>Thu, 5 Jan 2017 08:00:00 -0500</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2017 00:38:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 01:00:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>BottomOfThePage@gmail.com (Bottom of the Page)</webMaster>
 
@@ -68,6 +68,26 @@
       <itunes:summary>Bottom of the Page "streamers" discuss livestreaming anxiety, background music, webcams, and the future of The Bottom of the Page podcast.</itunes:summary>
       <itunes:duration>00:37:55</itunes:duration>
       <itunes:keywords>twitch, livestreaming, podcast, doctormcboop, prophetzopu, mcboop, zopu, anxiety, music, webcam</itunes:keywords>
+
+      <itunes:block>No</itunes:block>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Bottom of the Page Episode 2</title>
+      <link>https://archive.org/details/bottomofthepage-episode-2</link>
+      <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-2/bottomofthepage-episode-2.mp3</guid>
+      <description>Bottom of the Page "streamers" discuss Twitch Clips, protecting your identity online, view botting prices, changes to YouTube, simulcasting, anxiety, and talking to viewers.</description>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-2/bottomofthepage-episode-2.mp3" length="27992280" type="audio/mpeg"/>
+      <category>Podcasts</category>
+      <pubDate>Sun, 22 Jan 2017 01:00:00 -0500</pubDate>
+
+      <itunes:author>Doctor McBoop and Prophet Zopu</itunes:author>
+
+      <itunes:subtitle>Bottom of the Page "streamers" discuss Twitch Clips, protecting your identity online, view botting prices, changes to YouTube, simulcasting, anxiety, and talking to viewers.</itunes:subtitle>
+      <itunes:summary>Bottom of the Page "streamers" discuss Twitch Clips, protecting your identity online, view botting prices, changes to YouTube, simulcasting, anxiety, and talking to viewers.</itunes:summary>
+      <itunes:duration>00:41:12</itunes:duration>
+      <itunes:keywords>twitch, livestreaming, podcast, doctormcboop, prophetzopu, mcboop, zopu, clips, identity protection, view botting, youtube, simulcasting, anxiety, talking to viewers</itunes:keywords>
 
       <itunes:block>No</itunes:block>
       <itunes:explicit>No</itunes:explicit>
