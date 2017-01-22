@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>Copyright 2017. All rights reserved.</copyright>
     <pubDate>Thu, 5 Jan 2017 08:00:00 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2017 01:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 00:38:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>BottomOfThePage@gmail.com (Bottom of the Page)</webMaster>
 
@@ -36,9 +36,9 @@
     <item>
       <title>Bottom of the Page Episode 0</title>
       <link>https://archive.org/details/bottomofthepage-episode-0</link>
-      <guid>http://archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3</guid>
+      <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3</guid>
       <description>Bottom of the Page "streamers" take their first stab at making a podcast.</description>
-      <enclosure url="http://archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3" length="26626176" type="audio/mpeg"/>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-0/bottomofthepage-episode-0.mp3" length="26626176" type="audio/mpeg"/>
       <category>Podcasts</category>
       <pubDate>Thu, 5 Jan 2017 08:00:00 -0500</pubDate>
 
@@ -57,9 +57,9 @@
     <item>
       <title>Bottom of the Page Episode 1</title>
       <link>https://archive.org/details/bottomofthepage-episode-1</link>
-      <guid>http://archive.org/download/bottomofthepage-episode-1/bottomofthepage-episode-1.mp3</guid>
+      <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-1/bottomofthepage-episode-1.mp3</guid>
       <description>Bottom of the Page "streamers" discuss livestreaming anxiety, background music, webcams, and the future of The Bottom of the Page podcast.</description>
-      <enclosure url="http://archive.org/download/bottomofthepage-episode-1/bottomofthepage-episode-1.mp3" length="27311109" type="audio/mpeg"/>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-1/bottomofthepage-episode-1.mp3" length="27311109" type="audio/mpeg"/>
       <category>Podcasts</category>
       <pubDate>Fri, 13 Jan 2017 01:20:00 -0500</pubDate>
 
