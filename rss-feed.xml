@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>Copyright 2017. All rights reserved.</copyright>
     <pubDate>Thu, 5 Jan 2017 08:00:00 -0500</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2017 01:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2017 20:45:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>BottomOfThePage@gmail.com (Bottom of the Page)</webMaster>
 
@@ -88,6 +88,26 @@
       <itunes:summary>Bottom of the Page "streamers" discuss Twitch Clips, protecting your identity online, view botting prices, changes to YouTube, simulcasting, anxiety, and talking to viewers.</itunes:summary>
       <itunes:duration>00:41:12</itunes:duration>
       <itunes:keywords>twitch, livestreaming, podcast, doctormcboop, prophetzopu, mcboop, zopu, clips, identity protection, view botting, youtube, simulcasting, anxiety, talking to viewers</itunes:keywords>
+
+      <itunes:block>No</itunes:block>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Bottom of the Page Episode 3</title>
+      <link>https://archive.org/details/bottomofthepage-episode-3</link>
+      <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-3/bottomofthepage-episode-3.mp3</guid>
+      <description>Tired Bottom of the Page "streamers" discuss streaming services, schedules, stream titles, and being on camera versus off camera.</description>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-3/bottomofthepage-episode-3.mp3" length="21922694" type="audio/mpeg"/>
+      <category>Podcasts</category>
+      <pubDate>Sun, 29 Jan 2017 20:45:00 -0500</pubDate>
+
+      <itunes:author>Doctor McBoop and Prophet Zopu</itunes:author>
+
+      <itunes:subtitle>Tired Bottom of the Page "streamers" discuss streaming services, schedules, stream titles, and being on camera versus off camera.</itunes:subtitle>
+      <itunes:summary>Tired Bottom of the Page "streamers" discuss streaming services, schedules, stream titles, and being on camera versus off camera.</itunes:summary>
+      <itunes:duration>00:31:37</itunes:duration>
+      <itunes:keywords>twitch, youtube, beam, tired, twitchcon, livestreaming, podcast, doctormcboop, prophetzopu, mcboop, zopu, on camera, titles, schedules, social</itunes:keywords>
 
       <itunes:block>No</itunes:block>
       <itunes:explicit>No</itunes:explicit>
