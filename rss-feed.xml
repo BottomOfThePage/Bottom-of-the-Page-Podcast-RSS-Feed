@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>Copyright 2017. All rights reserved.</copyright>
     <pubDate>Thu, 5 Jan 2017 08:00:00 -0500</pubDate>
-    <lastBuildDate>Sun, 29 Jan 2017 20:45:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 01:00:00 -0500</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>BottomOfThePage@gmail.com (Bottom of the Page)</webMaster>
 
@@ -108,6 +108,26 @@
       <itunes:summary>Tired Bottom of the Page "streamers" discuss streaming services, schedules, stream titles, and being on camera versus off camera.</itunes:summary>
       <itunes:duration>00:31:37</itunes:duration>
       <itunes:keywords>twitch, youtube, beam, tired, twitchcon, livestreaming, podcast, doctormcboop, prophetzopu, mcboop, zopu, on camera, titles, schedules, social</itunes:keywords>
+
+      <itunes:block>No</itunes:block>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Bottom of the Page Episode 4</title>
+      <link>https://archive.org/details/bottomofthepage-episode-4</link>
+      <guid>http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-4/bottomofthepage-episode-4.mp3</guid>
+      <description>Bottom of the Page "streamers" interview Tterraj42 then discuss Beam and other streaming services.</description>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/bottomofthepage-episode-4/bottomofthepage-episode-4.mp3" length="53363922" type="audio/mpeg"/>
+      <category>Podcasts</category>
+      <pubDate>Sat, 18 Feb 2017 01:00:00 -0500</pubDate>
+
+      <itunes:author>Doctor McBoop and Prophet Zopu</itunes:author>
+
+      <itunes:subtitle>Bottom of the Page "streamers" interview Tterraj42 then discuss Beam and other streaming services.</itunes:subtitle>
+      <itunes:summary>Bottom of the Page "streamers" interview Tterraj42 then discuss Beam and other streaming services.</itunes:summary>
+      <itunes:duration>01:16:21</itunes:duration>
+      <itunes:keywords>beam, twitch, livestreaming, podcast, tterraj42, doctormcboop, prophetzopu, mcboop, zopu, social, srx, speedrun, mega man battle network</itunes:keywords>
 
       <itunes:block>No</itunes:block>
       <itunes:explicit>No</itunes:explicit>
